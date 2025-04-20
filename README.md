@@ -1,5 +1,5 @@
 ## Hi, I'm Yoonji 👋
-A DevOps engineer who loves CI/CD, automation, and Tea 🍵
+A DevOps engineer who loves CI/CD, automation, and Tea ☕
 
 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/yoonji-heo/)!
 
