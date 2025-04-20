@@ -12,7 +12,7 @@ Feel free to connect on [LinkedIn](https://www.linkedin.com/in/yoonji-heo/)!
 - Server Programming
 
 
-### ⚒️ *Skills*
+### *Skills*
 
 |  |  |
 | --- | --- |
