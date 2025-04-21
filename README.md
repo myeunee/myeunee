@@ -11,14 +11,6 @@ Feel free to connect on [LinkedIn](https://www.linkedin.com/in/yoonji-heo/)!
 - Observability
 - Server Programming
 
-### *Experiences*
-- 여기어때컴퍼니 DevOps Engineer 인턴 `2025.02 ~ now`
-- [Cloud Club](https://www.cloudclub.kr/) 7기 `2025.02 ~ now`
-- [GDGoC : KHU](https://github.com/GDG-on-Campus-KHU) 1기 백엔드, 운영진 `2024.08 ~ now`
-- 경희대학교 SW 멤버십 - 오픈소스 그룹 `2024.03 ~ 2024.12`
-- [KHUDA](https://github.com/khuda-data) 5기 데이터엔지니어링 멤버, 운영진 `2024.01 ~ 2024.06`
-- [KHUDA](https://github.com/khuda-data) 4기 데이터엔지니어링 멤버 `2023.07 ~ 2023.12`
-- 경희대학교 SW 멤버십 - 공모전 그룹 `2023.09 ~ 2023.12`
 
 ### *Skills*
 
