@@ -7,8 +7,8 @@ Feel free to connect on [LinkedIn](https://www.linkedin.com/in/yoonji-heo/)!
 
 ### *My Interest*
 - Site Reliability Engineering
+- Platform Engineering
 - DevOps
-- Cloud Computing
 
 ### *Skills*
 
